@@ -8,7 +8,7 @@ Analyses to reproduce figures in the Bento manuscript.
 Analyses depend on the `bento-tools` python package. First install dependencies by following [installation instructions](https://bento-tools.readthedocs.io/en/v2.0.0/installation.html) before using pip to install version `2.1.0a0`. Be sure this exact version is installed for reproducibility.
 
 ```{bash}
-pip install bento-tools==2.1.0a0 matplotlib==3.4 scanpy==1.9.1 statannotations leidenalg decoupler==0.14.0 omnipath
+pip install bento-tools==2.1.0a0 matplotlib==3.4 scanpy==1.9.1 statannotations leidenalg decoupler==0.14.0
 ```
 
 ## `notebooks`
